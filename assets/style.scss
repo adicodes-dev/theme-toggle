@@ -14,7 +14,6 @@ body {
     border: 0;
 }
 
-// toggle switch
 #toggle-mode-cb {
     display: none;
 }
@@ -59,7 +58,6 @@ body {
     }
 }
 
-// General
 #mode-wrapper {
     transition: all 0.3s ease-in-out;
     height: 100vh;
@@ -76,7 +74,6 @@ body {
     }
 }
 
-// Light Mode
 #mode-wrapper {
     background-color: white;
     color: #1e1f26;
@@ -90,7 +87,6 @@ body {
     }
 }
 
-// Dark Mode
 #toggle-mode-cb:checked+#mode-wrapper {
     background-color: #1e1f26;
     color: darken(white, 50%);
