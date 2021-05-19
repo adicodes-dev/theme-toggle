@@ -1,5 +1,5 @@
 # Theme Toggle
 
-# A simple toggle switch that toggles between light and dark theme.
+A simple toggle switch switch between light and dark theme.
 
-# Developed using HTML5 and SCSS.
+Developed using HTML5 and SCSS.
